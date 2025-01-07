@@ -1,4 +1,4 @@
-# itmd-361-spring2024 Fundamentals of Web Development
+# itmd-361-fall2024 Fundamentals of Web Development
 For ITMD 361 class, Fall semester 2023, at Illinois Institute of Technology
 
 **It's always important to put readme files on any github project.**
